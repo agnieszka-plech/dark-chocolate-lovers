@@ -1,6 +1,5 @@
-<img src="https://i.pinimg.com/originals/79/b7/5d/79b75df6401de8572c608e32d98c3d55.jpg" alt="Drawing" style="width: 50px;"/>
-
 <h1> All you need is Love and Chocolate <span class="tocSkip"></span></h1>
+
 
 Chocolate is one of the most popular candies in the world. Each year, residents of the United States collectively eat more than 2.8 billions pounds. However, not all chocolate bars are created equal! This dataset contains expert ratings of over 1,700 individual chocolate bars, along with information on their regional origin, percentage of cocoa, the variety of chocolate bean used and where the beans were grown.
 
@@ -16,7 +15,7 @@ To do so, they have provided us a complete dataset containing information regard
 
 The database is narrowly focused on plain dark chocolate with an aim of appreciating the flavors of the cacao when made into chocolate. The ratings do not reflect health benefits, social missions, or organic status.
 
-> dataset: `Ex2.2_Flavors_cacao.csv`
+> the  dataset: https://www.kaggle.com/rtatman/chocolate-bar-ratings 
 
 <h2> Flavors of Cacao Rating System:<span class="tocSkip"></span></h2>
 
